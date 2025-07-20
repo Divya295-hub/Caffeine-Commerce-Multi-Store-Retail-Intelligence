@@ -1,5 +1,5 @@
 # Caffeine & Commerce: Multi-Store Retail Intelligence Dashboard
-
+<br>
 ## About this project
 
 <p>
@@ -17,9 +17,11 @@
 The dashboard enables store managers to optimize inventory, staff scheduling, and promotional timing—powered by real-time, visual data storytelling.
 
 </p>
+<br>
 
 ## Dataset Used
-
+![Dataset](https://github.com/Divya295-hub/Caffeine-Commerce-Multi-Store-Retail-Intelligence/blob/main/Coffee%2BShop%2BSales.zip)
+<br>
 ## Project Highlights
 <p>
   <ul>
