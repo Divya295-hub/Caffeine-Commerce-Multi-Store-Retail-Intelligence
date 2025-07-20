@@ -1,5 +1,6 @@
 # Caffeine & Commerce: Multi-Store Retail Intelligence Dashboard
 <br>
+
 ## About this project
 
 <p>
